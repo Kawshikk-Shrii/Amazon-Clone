@@ -24,7 +24,7 @@ Live Demo Link Here
 
 Clone this repository:
 
-git clone https://github.com/yourusername/project.git
+git clone https://github.com/Kawshikk-Shrii/Amazon-Clone.git
 
 Open index.html in your browser.
 
